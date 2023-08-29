@@ -1,0 +1,4 @@
+NODE_ENV='development'
+APP_HOST='localhost'
+APP_PORT=3000
+APP_SECRET=123

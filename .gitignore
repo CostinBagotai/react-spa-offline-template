@@ -1,0 +1,11 @@
+# Folders
+node_modules
+build
+dist
+
+# Specific folder in static/public folder
+/static/ignored
+
+# Misc
+.env
+yarn-error.log
